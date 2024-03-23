@@ -1,0 +1,21 @@
+SQL installation - 
+
+Open  web browser and visit the MySQL Downloads page.
+On the MySQL Downloads page, select the Downloads option.
+Choose MySQL Installer for Windows.
+Click on the desired installer and download it.
+After the download is complete, open the installer.
+In the installer, choose the Custom setup type.
+Click Next. This will allow you to install MySQL server, MySQL Workbench, and MySQL shell.
+Under MySQL Servers, select the server you want to install and move it to the Products/Features to be installed section.
+Expand Applications, choose MySQL Workbench, and move it to the same section.
+Finally, click Execute to download and install MySQL server, MySQL Workbench, and MySQL shell. The installation process may take a while depending on your internet speed.
+
+....................................................................................................
+Power Bi -
+
+Download from Microsoft Store :
+Openweb browser and visit the Power BI Desktop page on the Microsoft Store.
+Click on the Install button.
+
+.....................................................................................................
