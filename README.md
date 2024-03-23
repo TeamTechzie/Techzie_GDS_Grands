@@ -1,7 +1,7 @@
 # Techzie_GDS_Grands
 This is Data Analysis for Hospitality GDS Grands chain using sql and power bi
 
-# HData Analysis of GDS Grands Hotel Chain in SQL & Power BI
+# Data Analysis of GDS Grands Hotel Chain in SQL & Power BI
 Analyzing and visualizing GDS Grands Hospitality chain.
 
 ### Goal of this project
